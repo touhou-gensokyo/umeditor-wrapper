@@ -1,4 +1,4 @@
-# UMEditor Wrapper
+# UMEditor Wrapper (Abandoned)
 
 Bower wrapper for umeditor.
 
