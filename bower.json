@@ -1,0 +1,21 @@
+{
+  "name": "umeditor-wrapper",
+  "homepage": "https://github.com/touhou-gensokyo/umeditor-wrapper",
+  "authors": [
+    "XadillaX <admin@xcoder.in>"
+  ],
+  "description": "Bower wrapper for umeditor.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "UMEditor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
