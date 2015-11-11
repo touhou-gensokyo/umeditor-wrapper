@@ -1,4 +1,4 @@
-# UMEditor Wrapper (Abandoned)
+# UMEditor Wrapper
 
 Bower wrapper for umeditor.
 
@@ -12,4 +12,3 @@ $ bower install --save umeditor-wrapper
 
 > This repo will always work until https://github.com/fex-team/umeditor/issues/253 be
 > actived.
-
